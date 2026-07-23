@@ -1,2 +1,15 @@
-# status-indicator-system
-An LED status indicator system built with Arduino Uno that blinks an LED at controlled intervals. Demonstrates basic digital output control and timing using delay() functions.
+## Components
+- Arduino Uno
+- LED
+- 220 ohm resistor
+- Jumper wires
+
+## Wiring
+- Pin 13 → 220 ohm resistor → LED long leg
+- LED short leg → GND
+
+## Real World Application
+Used in routers, chargers, and electronic devices to indicate power or status.
+
+## Demo
+
