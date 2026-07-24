@@ -1,3 +1,10 @@
+# Status Indicator System
+
+An LED status indicator system built with Arduino Uno that blinks an LED at controlled intervals. Demonstrates basic digital output control and timing using delay() functions.
+
+## What it does
+Blinks an LED on and off at 1 second intervals to simulate a status indicator light.
+
 ## Components
 - Arduino Uno
 - LED
