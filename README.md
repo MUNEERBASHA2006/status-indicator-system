@@ -21,4 +21,7 @@ Used in routers, chargers, and electronic devices to indicate power or status.
 ## Demo
 <img width="400" alt="status_ind_bli_off_photo" src="https://github.com/user-attachments/assets/ec49daf2-a62f-40e4-8ac5-5af64c1b8081" />
 <img width="400" alt="status_ind_bli_photo_blink" src="https://github.com/user-attachments/assets/c8760f7d-dfd3-4ccc-b617-84c7c1f7c5aa" />
+https://github.com/user-attachments/assets/ebd0c36e-7ac3-4b0e-b2c2-491c0b9c5798
+
+
 
